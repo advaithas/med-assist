@@ -5,6 +5,6 @@ The goal was to create a sophisticated medical report analyzer capable of respon
 
 <img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="output1.jpg">
 <img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="output2.png">
-
+<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="output3.jpg">
 
 
